@@ -1,4 +1,4 @@
-@import "_colors";
+@import "colors";
 
 body {
   line-height: 1.5;
@@ -66,7 +66,7 @@ p {
 
 a {
   text-decoration: underline;
-  color: @link_color; }
+  color: $link_color; }
 
 blockquote {
   margin: 1.5em;
@@ -144,12 +144,6 @@ tfoot {
 
 caption {
   background: #eee; }
-
-
-
-
-
-
 
 .quiet {
   color: #666666; }
