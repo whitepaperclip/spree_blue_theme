@@ -1,7 +1,7 @@
 /* 
   Checkout Progress Indicator
   current-last etc. required instead of "current last" because IE6 won't handle multiple classes
- */
+*/
 ol.progress-steps {
   list-style: none;
   margin:0; padding:0;
@@ -42,7 +42,7 @@ ol.progress-steps li.completed-first {
 }
 /* middles */
 ol.progress-steps li.current, ol.progress-steps li.current-first, ol.progress-steps li.current-last  {
-  color: #fff;
+  color: #FFF;
 }
 ol.progress-steps li.completed {
   background-image: image-url('step-progress/completed-completed.gif');

@@ -3,7 +3,7 @@
 
 body {
   margin-top: 10px;
-  background: #ffffff image-url('body-back.png') top left repeat-x;
+  background: #FFF image-url('body-back.png') top left repeat-x;
 }
 
 div.left { @include leftie; }
