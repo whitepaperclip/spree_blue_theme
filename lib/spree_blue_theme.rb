@@ -1,3 +1,5 @@
+require 'sass/rails/helpers'
+
 module SpreeBlueTheme
   class Engine < Rails::Engine
     railtie_name "spree_blue_theme"
