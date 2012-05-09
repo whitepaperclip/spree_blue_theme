@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_blue_theme'
-  s.version     = '0.1.2'
+  s.version     = '0.1.3'
   s.summary     = 'A Spree Commerce Theme'
   s.homepage    = 'https://github.com/spree/spree_blue_theme'
 
